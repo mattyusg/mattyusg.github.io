@@ -19,7 +19,7 @@ A:active {
 }
 
 .text {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 14pt; 
 		font-style: normal; 
 		font-weight: normal; 
@@ -27,7 +27,7 @@ A:active {
 		}
 	
 .textbold {  
-		font-family: "Comic Sans MS", cursive, sans-serif;
+		font-family: "Times New Roman", Times, sans-serif;
 		font-size: 14pt; 
 		font-style: normal; 
 		font-weight: bold; 
@@ -35,7 +35,7 @@ A:active {
 		}
 
 .textpageheader {
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Times New Roman", Times, sans-serif;
 	font-size: 22pt;
 	font-style: normal;
 	font-weight: bold;
@@ -43,21 +43,21 @@ A:active {
 		}		
 
 .textsmall {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 12pt; 
 		font-style: normal; 
 		font-weight: normal; 
 		color: #000000
 		}
 .textvsmall {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 10pt; 
 		font-style: normal; 
 		font-weight: normal; 
 		color: #000000
 		}		
 .textsectionheader1 {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 12pt; 
 		font-style: normal; 
 		font-weight: bold; 
@@ -65,7 +65,7 @@ A:active {
 		}
 		
 .textsectionheader2 {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 14pt; 
 		font-style: normal; 
 		font-weight: bold; 
@@ -73,7 +73,7 @@ A:active {
 		}
 		
 .textsectionheader3 {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 14pt; 
 		font-style: normal; 
 		font-weight: bold; 
@@ -81,7 +81,7 @@ A:active {
 		}		
 		
 .textsectionheader3grey {  
-	font-family:  "Comic Sans MS", cursive, sans-serif;
+	font-family:  "Times New Roman", Times, sans-serif;
 	font-size: 16pt; 
 	font-style: normal; 
 	font-weight: bold; 
@@ -91,7 +91,7 @@ A:active {
 	.homenav {
   		font-size: 13pt; 
   		font-weight: bold; 
-  		font-family: "Comic Sans MS", cursive, sans-serif; 
+  		font-family: "Times New Roman", Times, sans-serif; 
   		color: #1589FF;
 		text-decoration: none;
 	}
@@ -100,13 +100,13 @@ A:active {
 	.pagenav {
   		font-size: 11pt; 
   		font-weight: bold; 
-  		font-family: "Comic Sans MS", cursive, sans-serif; 
+  		font-family: "Times New Roman", Times, sans-serif; 
   		color: #1589FF;
 		text-decoration: none;
 	}
 
 .textcopyright {  
-		font-family:  "Comic Sans MS", cursive, sans-serif;
+		font-family:  "Times New Roman", Times, sans-serif;
 		font-size: 10pt; 
 		font-style: normal; 
 		color:#000000;
@@ -118,7 +118,7 @@ A:active {
 	width:900px;
 	text-align:left;
 	position:relative;
-	font-family:  "Comic Sans MS", cursive, sans-serif;
+	font-family:  "Times New Roman", Times, sans-serif;
 	font-size: 12pt;
 	font-style: normal;
 	font-weight: normal;

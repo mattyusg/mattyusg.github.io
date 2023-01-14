@@ -1,0 +1,49 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{AngeloSkybox,
+  Title                    = {Skybox image and video product evaluation},
+  Author                   = {Pablo d'Angelo and Gellert Mattyus and Peter Reinartz},
+  Journal                  = {International Journal of Image and Data Fusion},
+  Year                     = {2015}
+}
+
+@InProceedings{KurzHelicopter,
+  Title                    = {Performance of a real-time sensor and processing system on a helicopter},
+  Author                   = {Franz Kurz and Dominik Rosenbaum and Oliver Meynberg and Gellert Mattyus and Peter Reinartz},
+  Booktitle                = {Joint Symposium of ISPRS Technical Commission I and IAG Commission 4},
+  Year                     = {2014}
+}
+
+@Article{KangMattyus,
+  Title                    = {Fast Multiclass Vehicle Detection on Aerial Images},
+  Author                   = {Kang Liu and Gellert Mattyus},
+  Journal                  = {IEEE Geoscience and Remote Sensing Letters (GRSL)},
+  Year                     = {2015}
+}
+
+@InProceedings{MattyusVessel,
+  Title                    = {Near real-time automatic vessel detection on optical satellite images},
+  Author                   = {Gellert Mattyus},
+  Booktitle                = {ISPRS Hannover Workshop},
+  Year                     = {2013}
+}
+
+@InProceedings{MattyusMutliTrackingAerial,
+  Title                    = {Mutli Target Tracking on Aerial Videos},
+  Author                   = {Gellert Mattyus and Csaba Benedek and Tamas Sziranyi},
+  Booktitle                = {ISPRS Istanbul Workshop},
+  Year                     = {2010},
+
+  Owner                    = {matt_ge},
+  Timestamp                = {2016.01.12}
+}
+
+@InProceedings{MattyusRoadMaps,
+  Title                    = {Enhancing Road Maps by Parsing Aerial Images Around the World},
+  Author                   = {Gellert Mattyus and Shenlong Wang and Sanja Fidler and Raquel Urtasun},
+  Booktitle                = {International Conference on Computer Vision (ICCV)},
+  Year                     = {2015}
+}
+
